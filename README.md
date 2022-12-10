@@ -29,7 +29,7 @@ If you cant find it it's here
 
 <img width="789" alt="Shaders" src="https://user-images.githubusercontent.com/59833741/206824090-13b0ab2a-2168-41f9-9e8b-4d3393202aef.PNG">
 
-Using shift A and allot of editing. Input these shaders.
+Using shift A and allot of editing. Input these shaders. Obviously the coloring for this material is an example. Set these nodes for the spefic colors and texture paints as needed. 
 
 <img width="539" alt="step 3" src="https://user-images.githubusercontent.com/59833741/206824046-448e7006-84de-44e9-96e4-54bcb246d22d.PNG">
 
@@ -49,7 +49,7 @@ Look at your timeline and see the movement of your object or character rig.
 
 See any issues? Well unless youre a professional or just knowledgeable it's very hard to spot the issue. But the issue is that the animation isn't animated on twos like into the spiderverse.
 
-How can we fix that?
+# How can we fix that?
 
 Select all the animation keyframes.
 
