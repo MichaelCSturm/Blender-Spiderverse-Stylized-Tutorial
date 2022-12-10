@@ -2,7 +2,9 @@
 
 Auhor: Michael Sturm
 
-Summary: In this tutorial I explain how to UV unwrap a mesh, set up an general comicbook shader and animation on twos in Blender 3.3. The intended audience is for creative types who lack much knowledge in blender yet still want to make an animation effective and very stylized. Following this tutorial should only take about 30 minutes yet a distinct look should be produced.
+Summary: In this tutorial I explain how to UV unwrap a mesh, set up an general comicbook shader and animation on twos in Blender 3.3. 
+
+The intended audience is for creative types who lack much knowledge in blender yet still want to make an animation effective and very stylized. Following this tutorial should only take about 30 minutes yet a distinct look should be produced.
 
 
 
