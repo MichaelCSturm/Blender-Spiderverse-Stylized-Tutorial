@@ -83,4 +83,4 @@ You do this by pressing T and hitting constant(Another of doing this is going to
 
 ![0001-0040(2)](https://user-images.githubusercontent.com/59833741/206825504-157f4609-c297-4b41-a99a-ea830179d885.gif)
 
-Beatiful! 
+Perfect and choppy just like spiderverse!
