@@ -1,4 +1,4 @@
-# Easy to follow Spider-verse tutorial in Blender 3.3
+# Spider-verse tutorial in Blender 3.3
 
 Before:
 
