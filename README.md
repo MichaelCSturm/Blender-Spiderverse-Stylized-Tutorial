@@ -1,5 +1,11 @@
 # Spider-verse tutorial in Blender 3.3
 
+Auhor: Michael Sturm
+
+Summary: In this tutorial I explain how to UV unwrap a mesh, set up an general comicbook shader and animation on twos in Blender 3.3. The intended audience is for creative types who lack much knowledge in blender yet still want to make an animation effective and very stylized. Following this tutorial should only take about 30 minutes yet a distinct look should be produced.
+
+
+
 Before:
 
 ![untitled4](https://user-images.githubusercontent.com/59833741/206824634-fe4543a8-e440-4048-8466-a3cc4c8df6dc.png)
@@ -29,7 +35,7 @@ If you cant find it it's here
 
 <img width="789" alt="Shaders" src="https://user-images.githubusercontent.com/59833741/206824090-13b0ab2a-2168-41f9-9e8b-4d3393202aef.PNG">
 
-Using shift A and allot of editing. Input these shaders. Obviously the coloring for this material is an example. Set these nodes for the spefic colors and texture paints as needed. 
+Using shift A and allot of editing. Input these shaders. The multiply nodes are labeled under math nodes. Obviously the coloring for this material is an example. Set these nodes for the spefic colors as needed. If you'd like to add a texture paint to put this effect on add a mix shader then mix this entire daisychain with an image texture of your texture paint. REMEMBER IT'S POSSIBLE TO ASSIGN SHADERS TO SPEFIC FACES OF MESHES AND KEYFRAME IT! THEREBY SETTING THIS AS A EASY WAY TO COMICBOOK SHADE SOMETHING
 
 <img width="539" alt="step 3" src="https://user-images.githubusercontent.com/59833741/206824046-448e7006-84de-44e9-96e4-54bcb246d22d.PNG">
 
@@ -43,13 +49,21 @@ Before:
 
 Little too clean looking for a comic book stylized animation right?
 
-Look at your timeline and see the movement of your object or character rig.
+Into the spiderverse animated characters on twos to indicate they're struggling while also animating other characters on ones to show confidence and authority. 
+
+Theres no other clearier scene then the forest chase scene.
+
+https://youtu.be/gnGcpzpgaFc?t=61
+
+Older spiderman is animated on ones while Miles is animated on twos.
+
+Characters can go from extremely choppy to smoothe to indicate their feeling to the audience without saying or animating anything.
+
+# How can we do that?
+
+To set up an animation on twos look at your timeline 
 
 <img width="392" alt="timeline" src="https://user-images.githubusercontent.com/59833741/206825135-0770a9a4-3b43-4020-9391-8e436a82ad8d.PNG">
-
-See any issues? Well unless youre a professional or just knowledgeable it's very hard to spot the issue. But the issue is that the animation isn't animated on twos like into the spiderverse.
-
-# How can we fix that?
 
 Select all the animation keyframes.
 
@@ -61,9 +75,10 @@ Then select animation and bake animation.
 
 <img width="517" alt="happy" src="https://user-images.githubusercontent.com/59833741/206825319-73493b51-a211-4e25-a510-ed8b28b67591.PNG">
 
-Then still having all these frames selected change the interpolation mode to constant.
+Then still having all these frames selected, Change the interpolation mode to constant
 
-You do this by pressing T and hitting constant
+You do this by pressing T and hitting constant(Another of doing this is going to graph editor)
 
 ![0001-0040(2)](https://user-images.githubusercontent.com/59833741/206825504-157f4609-c297-4b41-a99a-ea830179d885.gif)
 
+Beatiful! 
